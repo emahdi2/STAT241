@@ -1,56 +1,5 @@
 <h1>STAT 241 – Biostatistics</h1>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-<html lang="en">
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #1a4d8f;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 15px;
-            margin-bottom: 25px;
-            background: white;
-        }
-        table, th, td {
-            border: 1px solid #ccc;
-        }
-        th {
-            background-color: #e6eef8;
-            padding: 10px;
-            text-align: left;
-        }
-        td {
-            padding: 8px;
-        }
-        ul {
-            margin-bottom: 20px;
-        }
-        .container {
-            background: white;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-        }
-        code {
-            background: #f4f4f4;
-            padding: 3px 6px;
-            border-radius: 4px;
-        }
-    </style>
-</head>
-<body>
-
 <div class="container">
 
 <h1>STAT 241 – Biostatistics</h1>
