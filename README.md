@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+<h1>STAT 241 – Biostatistics</h1>
+
+
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>STAT 241 – Biostatistics</title>
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
