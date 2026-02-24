@@ -134,7 +134,7 @@
 <hr>
 
 <h2>License</h2>
-<p>Educational use only. Please obtain permission before redistributing course materials.</p>
+<p>Educational use only.</p>
 
 </div>
 
