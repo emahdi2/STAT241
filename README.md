@@ -178,21 +178,6 @@
 
 <hr>
 
-<h2>Repository Structure (Suggested)</h2>
-
-<pre>
-STAT241/
-│
-├── Lectures/
-├── Assignments/
-├── Exams/
-├── Data/
-├── Software_Guides/
-└── README.html
-</pre>
-
-<hr>
-
 <h2>Intended Audience</h2>
 <p>This course is designed for students in health sciences, medicine, public health, biology, nursing, epidemiology, and statistics.</p>
 
