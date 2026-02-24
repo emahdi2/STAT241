@@ -79,7 +79,7 @@
     <li>Sample size determination</li>
 </ul>
 
-<p><strong>Software used:</strong> MINITAB, SPSS, Microsoft Excel</p>
+<p><strong>Software used:</strong> R, MINITAB, SPSS, Microsoft Excel</p>
 
 <hr>
 
