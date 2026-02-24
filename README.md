@@ -1,5 +1,3 @@
-<h1>STAT 241 – Biostatistics</h1>
-
 <div class="container">
 
 <h1>STAT 241 – Biostatistics</h1>
